@@ -1,0 +1,1 @@
+[{"id":1,"timestamp":"2021-06-28T23:37:41.848Z","producto":[{"nombre":"Prod 2","precio":312321313.56,"foto":"https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png","descripcion":"Descrippcion 2","codigo":5517,"stock":20,"id":2,"timestamp":"2021-06-28T23:37:22.106Z"}]}]
